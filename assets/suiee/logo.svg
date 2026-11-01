@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1792" height="896" viewBox="0 0 1792 896">
+  <title>SUIEE SU DESIGN</title>
+  <rect width="1792" height="896" fill="#000"/>
+  <g fill="#fff">
+    <!-- Geometric S -->
+    <path d="M437 331H580V361H447L580 422V445L555 470H410V439H538L410 382V358Z"/>
+    <!-- Rounded U -->
+    <path d="M596 331H632V425Q632 439 645 439H713Q726 439 726 425V331H762V420Q762 443 748 456Q734 470 711 470H648Q625 470 610 455Q596 441 596 420Z"/>
+    <!-- I -->
+    <path d="M779 331H815V470H779Z"/>
+    <!-- First E -->
+    <path d="M831 331H999V361H867V386H976V415H867V439H999V470H831Z"/>
+    <!-- Second E -->
+    <path d="M1014 331H1183V361H1051V386H1160V415H1051V439H1183V470H1014Z"/>
+  </g>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">
+    <text x="408" y="515" font-size="41" letter-spacing="5">SU</text>
+    <text x="408" y="555" font-size="40" letter-spacing="5">DESIGN</text>
+  </g>
+</svg>
